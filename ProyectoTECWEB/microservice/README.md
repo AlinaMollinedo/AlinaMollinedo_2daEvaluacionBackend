@@ -17,6 +17,7 @@ Tecnologías Utilizadas
 
 Instalación
 • Clonar el repositorio: https://github.com/AlinaMollinedo/AlinaMollinedo_2daEvaluacionBackend.git
+• Subir la BD a un servidor con el nombre de 'miiga'.
 • Instalar dependencias: npm install express soap axios.
 • Entrar a la carpeta ProyectoTECWEB/Back y levantar el servidor para acceder a la API REST:
 cd ProyectoTECWEB/Back
